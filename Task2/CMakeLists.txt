@@ -1,0 +1,3 @@
+PROJECT( Task2 )
+
+ADD_SUBDIRECTORY( src )

@@ -1,0 +1,3 @@
+C:/Users/ethan/planets/Task2/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ethan/planets/Task2/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/ethan/planets/Task2/build/src/CMakeFiles/Task2.dir
