@@ -301,13 +301,19 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Article.cpp" />
     <ClCompile Include="C:\Users\ethan\planets\Encyclopedia\Main.cpp" />
+    <ClCompile Include="PlanetArticle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\ethan\planets\Encyclopedia\ZERO_CHECK.vcxproj">
       <Project>{4F498C6F-2A23-382C-A29B-852FEB4B179B}</Project>
       <Name>ZERO_CHECK</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Article.h" />
+    <ClInclude Include="PlanetArticle.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

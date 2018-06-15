@@ -4,6 +4,8 @@
     <ClCompile Include="C:\Users\ethan\planets\Encyclopedia\Main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Article.cpp" />
+    <ClCompile Include="PlanetArticle.cpp" />
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="C:\Users\ethan\planets\Encyclopedia\CMakeLists.txt" />
@@ -12,5 +14,9 @@
     <Filter Include="Source Files">
       <UniqueIdentifier>{3BD9EC8E-04EC-30EC-915E-1F314252615C}</UniqueIdentifier>
     </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Article.h" />
+    <ClInclude Include="PlanetArticle.h" />
   </ItemGroup>
 </Project>
