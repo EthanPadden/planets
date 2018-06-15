@@ -1,0 +1,3 @@
+C:/Users/ethan/planets/Sample/CMakeFiles/Sample.dir
+C:/Users/ethan/planets/Sample/CMakeFiles/ALL_BUILD.dir
+C:/Users/ethan/planets/Sample/CMakeFiles/ZERO_CHECK.dir

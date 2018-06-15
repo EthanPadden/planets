@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ethan\planets\Sample\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="myClass.cpp" />
+    <ClCompile Include="Class2.cpp" />
+    <ClCompile Include="BDay.cpp" />
+    <ClCompile Include="People.cpp" />
+    <ClCompile Include="Mother.cpp" />
+    <ClCompile Include="Daughter.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ethan\planets\Sample\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{51FAB9DA-4531-39D5-8433-E3DF536959DB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="myClass.h" />
+    <ClInclude Include="Class2.h" />
+    <ClInclude Include="BDay.h" />
+    <ClInclude Include="People.h" />
+    <ClInclude Include="Mother.h" />
+    <ClInclude Include="Daughter.h" />
+  </ItemGroup>
+</Project>
