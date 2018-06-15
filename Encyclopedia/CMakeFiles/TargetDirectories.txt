@@ -1,0 +1,3 @@
+C:/Users/ethan/planets/Encyclopedia/CMakeFiles/Encyclopedia.dir
+C:/Users/ethan/planets/Encyclopedia/CMakeFiles/ALL_BUILD.dir
+C:/Users/ethan/planets/Encyclopedia/CMakeFiles/ZERO_CHECK.dir
