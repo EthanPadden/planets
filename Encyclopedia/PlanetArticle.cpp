@@ -1,10 +1,9 @@
 #include "PlanetArticle.h"
 
 PlanetArticle::PlanetArticle(float m, float v)
+    : mass(m), volume(v)
 {
-	setValues(m, v);
 }
-
 
 PlanetArticle::~PlanetArticle()
 {
