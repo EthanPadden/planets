@@ -1,5 +1,3 @@
-PROJECT( Encyclopedia )
+PROJECT(Encyclopedia)
 
-ADD_SUBDIRECTORY( src )
-
-ADD_EXECUTABLE( Encyclopedia Main.cpp )
+ADD_EXECUTABLE(Encyclopedia Main.cpp Article.cpp PlanetArticle.cpp)
